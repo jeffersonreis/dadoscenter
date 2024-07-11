@@ -1,0 +1,51 @@
+id,firstName,lastName,address,city,state,zipCode,phone,email,dateOfBirth,registrationDate,preferences/0,preferences/1,preferences/2
+1,Carlos,Silva,"Rua das Palmeiras, 10",São Paulo,SP,01001-000,(11) 1234-5678,carlos.silva@gmail.com,1985-05-15,2020-01-10,Eletrônicos,Livros,Esportes
+2,Ana,Souza,"Avenida das Flores, 200",Rio de Janeiro,RJ,22020-000,(21) 2345-6789,ana.souza@hotmail.com,1990-08-25,2021-03-15,Moda,Beleza,Casa
+3,João,Oliveira,"Praça das Águas, 50",Belo Horizonte,MG,31010-000,(31) 3456-7890,joao.oliveira@yahoo.com,1982-11-30,2019-07-22,Automóveis,Ferramentas,Eletrônicos
+4,Mariana,Lima,"Rua do Sol, 300",Curitiba,PR,80010-000,(41) 4567-8901,mariana.lima@outlook.com,1995-02-14,2020-11-05,Viagens,Livros,Cultura
+5,Fernando,Gomes,"Avenida Central, 1234",Porto Alegre,RS,90010-000,(51) 5678-9012,fernando.gomes@gmail.com,1978-06-20,2018-09-17,Esportes,Saúde,Tecnologia
+6,Camila,Almeida,"Rua do Rio, 567",Salvador,BA,40010-000,(71) 6789-0123,camila.almeida@uol.com.br,1987-12-05,2021-02-20,Moda,Beleza,Gastronomia
+7,Pedro,Ferreira,"Rua da Montanha, 890",Brasília,DF,70040-000,(61) 7890-1234,pedro.ferreira@gmail.com,1992-09-10,2020-04-12,Tecnologia,Esportes,Música
+8,Juliana,Costa,"Avenida dos Lagos, 123",Manaus,AM,69010-000,(92) 8901-2345,juliana.costa@bol.com.br,1984-04-22,2019-06-18,Cultura,Viagens,Gastronomia
+9,Rodrigo,Moura,"Praça das Nações, 456",Recife,PE,50010-000,(81) 9012-3456,rodrigo.moura@ig.com.br,1980-03-15,2018-10-30,Automóveis,Tecnologia,Saúde
+10,Larissa,Pereira,"Rua das Árvores, 789",Florianópolis,SC,88010-000,(48) 0123-4567,larissa.pereira@gmail.com,1993-01-05,2021-07-14,Moda,Cultura,Viagens
+11,Marcelo,Ribeiro,"Avenida do Mar, 123",Vitória,ES,29010-000,(27) 1234-5678,marcelo.ribeiro@outlook.com,1989-08-19,2020-05-21,Esportes,Tecnologia,Gastronomia
+12,Fernanda,Rodrigues,"Rua do Campo, 456",Goiânia,GO,74010-000,(62) 2345-6789,fernanda.rodrigues@gmail.com,1986-11-27,2019-03-09,Beleza,Moda,Saúde
+13,Renato,Martins,"Avenida dos Sonhos, 789",Natal,RN,59010-000,(84) 3456-7890,renato.martins@uol.com.br,1991-12-12,2021-08-25,Música,Cultura,Tecnologia
+14,Patrícia,Oliveira,"Rua das Estrelas, 321",Fortaleza,CE,60010-000,(85) 4567-8901,patricia.oliveira@gmail.com,1988-05-02,2018-12-14,Beleza,Moda,Esportes
+15,André,Silveira,"Avenida Central, 654",João Pessoa,PB,58010-000,(83) 5678-9012,andre.silveira@hotmail.com,1979-06-07,2020-09-11,Tecnologia,Esportes,Livros
+16,Marina,Fernandes,"Rua do Sol, 123",Aracaju,SE,49010-000,(79) 6789-0123,marina.fernandes@ig.com.br,1994-02-19,2021-04-03,Viagens,Cultura,Moda
+17,Gustavo,Mendes,"Avenida das Flores, 456",Maceió,AL,57010-000,(82) 7890-1234,gustavo.mendes@gmail.com,1981-07-15,2019-11-26,Automóveis,Tecnologia,Esportes
+18,Rafaela,Carvalho,"Rua das Palmeiras, 789",Belém,PA,66010-000,(91) 8901-2345,rafaela.carvalho@bol.com.br,1996-03-22,2020-02-17,Moda,Beleza,Cultura
+19,Thiago,Azevedo,"Avenida dos Pinheiros, 123",São Luís,MA,65010-000,(98) 9012-3456,thiago.azevedo@uol.com.br,1983-10-11,2019-05-28,Esportes,Tecnologia,Livros
+20,Isabela,Santos,"Rua das Oliveiras, 456",Teresina,PI,64010-000,(86) 0123-4567,isabela.santos@gmail.com,1990-09-17,2021-03-14,Cultura,Viagens,Beleza
+21,Bruno,Lopes,"Avenida das Mangueiras, 789",Boa Vista,RR,69310-000,(95) 2345-6789,bruno.lopes@outlook.com,1987-11-09,2018-06-21,Tecnologia,Automóveis,Esportes
+22,Carla,Pinto,"Rua das Pedras, 321",Palmas,TO,77010-000,(63) 3456-7890,carla.pinto@gmail.com,1992-05-30,2020-10-17,Beleza,Moda,Cultura
+23,Felipe,Nascimento,"Avenida das Árvores, 123",Macapá,AP,68910-000,(96) 4567-8901,felipe.nascimento@gmail.com,1984-02-12,2019-12-23,Livros,Tecnologia,Esportes
+24,Aline,Cunha,"Rua das Flores, 456",Porto Velho,RO,76810-000,(69) 5678-9012,aline.cunha@hotmail.com,1989-07-24,2020-07-06,Moda,Beleza,Gastronomia
+25,Ricardo,Campos,"Avenida das Nações, 789",Rio Branco,AC,69910-000,(68) 6789-0123,ricardo.campos@uol.com.br,1980-11-08,2018-08-10,Tecnologia,Automóveis,Esportes
+26,Juliana,Cardoso,"Rua do Sol, 123",Natal,RN,59010-000,(84) 7890-1234,juliana.cardoso@gmail.com,1995-10-01,2021-05-16,Cultura,Moda,Viagens
+27,Lucas,Alves,"Avenida das Palmeiras, 456",Campo Grande,MS,79010-000,(67) 8901-2345,lucas.alves@outlook.com,1988-06-15,2020-11-03,Esportes,Tecnologia,Livros
+28,Tatiana,Monteiro,"Rua das Estrelas, 789",Aracaju,SE,49010-000,(79) 0123-4567,tatiana.monteiro@gmail.com,1983-03-19,2019-01-27,Moda,Beleza,Cultura
+29,Rafael,Barbosa,"Avenida Central, 321",São Paulo,SP,01001-000,(11) 2345-6789,rafael.barbosa@gmail.com,1990-12-28,2021-09-15,Tecnologia,Automóveis,Esportes
+30,Luana,Teixeira,"Rua das Palmeiras, 654",Rio de Janeiro,RJ,22020-000,(21) 3456-7890,luana.teixeira@hotmail.com,1986-05-21,2018-07-08,Beleza,Moda,Cultura
+31,Renata,Castro,"Rua do Rio, 789",Belo Horizonte,MG,31010-000,(31) 4567-8901,renata.castro@gmail.com,1993-04-17,2021-02-05,Viagens,Cultura,Gastronomia
+32,Eduardo,Vieira,"Avenida das Nações, 123",Curitiba,PR,80010-000,(41) 5678-9012,eduardo.vieira@uol.com.br,1982-11-13,2019-09-20,Esportes,Tecnologia,Livros
+33,Simone,Lima,"Rua do Campo, 456",Porto Alegre,RS,90010-000,(51) 6789-0123,simone.lima@gmail.com,1987-08-14,2020-12-30,Beleza,Moda,Saúde
+34,Maurício,Freitas,"Avenida das Palmeiras, 789",Florianópolis,SC,88010-000,(48) 0123-4567,mauricio.freitas@gmail.com,1981-07-02,2018-03-18,Tecnologia,Automóveis,Esportes
+35,Adriana,Mello,"Rua do Sol, 123",Vitória,ES,29010-000,(27) 1234-5678,adriana.mello@outlook.com,1990-10-22,2021-06-12,Moda,Beleza,Cultura
+36,Vinícius,Duarte,"Avenida Central, 456",Goiânia,GO,74010-000,(62) 2345-6789,vinicius.duarte@gmail.com,1985-11-11,2019-07-19,Tecnologia,Esportes,Livros
+37,Roberta,Pires,"Rua do Campo, 789",Natal,RN,59010-000,(84) 3456-7890,roberta.pires@gmail.com,1994-04-04,2021-01-07,Moda,Cultura,Viagens
+38,Rogério,Ferreira,"Avenida das Estrelas, 123",João Pessoa,PB,58010-000,(83) 4567-8901,rogerio.ferreira@hotmail.com,1983-09-28,2018-04-11,Tecnologia,Esportes,Gastronomia
+39,Bianca,Gonçalves,"Rua das Palmeiras, 456",Salvador,BA,40010-000,(71) 5678-9012,bianca.goncalves@gmail.com,1992-05-19,2020-08-22,Beleza,Moda,Viagens
+40,Gabriel,Santana,"Avenida do Mar, 789",Fortaleza,CE,60010-000,(85) 6789-0123,gabriel.santana@gmail.com,1986-11-13,2019-02-14,Tecnologia,Automóveis,Esportes
+41,Mariana,Medeiros,"Rua do Campo, 123",Curitiba,PR,80010-000,(41) 7890-1234,mariana.medeiros@gmail.com,1990-12-31,2021-09-09,Moda,Beleza,Cultura
+42,Felipe,Almeida,"Avenida das Nações, 456",Manaus,AM,69010-000,(92) 8901-2345,felipe.almeida@gmail.com,1984-03-24,2018-05-03,Esportes,Tecnologia,Gastronomia
+43,Tatiane,Oliveira,"Rua do Sol, 789",Belém,PA,66010-000,(91) 9012-3456,tatiane.oliveira@gmail.com,1995-07-17,2020-03-26,Moda,Beleza,Viagens
+44,Henrique,Gomes,"Avenida Central, 123",Maceió,AL,57010-000,(82) 0123-4567,henrique.gomes@hotmail.com,1989-04-06,2019-06-30,Tecnologia,Automóveis,Esportes
+45,Paula,Araújo,"Rua das Palmeiras, 456",São Luís,MA,65010-000,(98) 2345-6789,paula.araujo@gmail.com,1991-11-01,2021-08-11,Moda,Beleza,Cultura
+46,Fernando,Ribeiro,"Avenida das Mangueiras, 789",Teresina,PI,64010-000,(86) 3456-7890,fernando.ribeiro@gmail.com,1985-06-18,2020-01-21,Tecnologia,Esportes,Livros
+47,Camila,Freitas,"Rua das Palmeiras, 123",Boa Vista,RR,69310-000,(95) 4567-8901,camila.freitas@gmail.com,1987-02-03,2019-07-23,Moda,Beleza,Cultura
+48,Fábio,Silva,"Avenida Central, 456",Palmas,TO,77010-000,(63) 5678-9012,fabio.silva@gmail.com,1990-11-19,2020-08-01,Tecnologia,Automóveis,Esportes
+49,Juliana,Gonçalves,"Rua das Estrelas, 789",Macapá,AP,68910-000,(96) 6789-0123,juliana.goncalves@gmail.com,1994-05-07,2021-03-19,Moda,Cultura,Viagens
+50,Rogério,Santos,"Avenida das Nações, 321",Porto Velho,RO,76810-000,(69) 0123-4567,rogerio.santos@gmail.com,1983-07-28,2018-11-22,Tecnologia,Automóveis,Esportes
